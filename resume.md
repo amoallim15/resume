@@ -1,5 +1,5 @@
 > [amoallim15@gmail.com](mailto:amoallim15@gmail.com)&nbsp;|&nbsp;[+(82) 10-9160-1590](tel:+821091601590)
-
+wvrewgberbtrewgwtgwetgwe
 > 1991.12.27 (28 years-old)
 
 ```Seoul, South Korea.```
@@ -77,3 +77,9 @@ IT Engineer *(Intern)*
 
 ### Keywords
 Big Data, Cloud native, Machine learning, Cloud infrastrcture, IoT, Distributed computing, Micro-services. 
+
+### Languages
+- `*****` Arabic
+- `*****` Somali
+- `*****` English
+- `***--` Korean
