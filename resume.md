@@ -6,9 +6,9 @@
 
 # Ali Moallim &ndash; Software Development Engineer
 - 3+ years of experience as a software engineer in various industries.
-- Full stack engineer with a concentration on scalable architectures, distributed computing, big data analytics, micro services, cloud infrastructures.
-- Experienced on DevOps essential tools like, Docker, Kubernetes, GIT, and CI environments.
-- Strong AI engineering background, with intensive PyTorch development skills.
+- Full-stack engineer with a focus on scalable cloud architectures, big data, distributed computing, and microservices.
+- Experienced in DevOps toolchain like Docker, Kubernetes, GIT, and CI environments.
+- AI engineering, with a strong background in PyTorch and distributed machine learning.
 
 ## Education
 - **Kumoh National Institute of Technology Kit, Gumi, South Korea** <br/>
@@ -25,24 +25,22 @@ B.S. in Electrical Engineering <br/>
 - **Hanwha Group, Seoul, South Korea** <br/>
 *August 2019 &ndash; Present* <br/>
 Data Engineer
-	- Developing and integrating big data infrastructure with cloud micro-services.
-	- Architecting cloud-native big data system based on Kubernetes.
-	- Designed and implemented multiple recommender system algorithms.
-	- Developed time-series data warehouse infrastructure.
+	- Architecting cloud-native big data infrastructure based on Kubernetes.
+	- Developing and implementing a distributed recommender system with Pytorch.
+	- Architecting cloud-native analytics and business intelligence platform for the recommender system.
 
 - **Conception Co. Ltd., Gumi, South Korea** <br/>
 *February 2019 &ndash; August 2019* <br/>
 Software Development Engineer
-	- Concerned in the research and development of Powder Bed Fusion (PBF) 3D slicing software.
 	- Participated in the research and development of 3D printing slicing software.
-	- Participated in the development of Powder Bed Fusion (PBF) control and monitoring system.
+	- Participated in the development of the Powder Bed Fusion (PBF) control and monitoring system.
 
 - **Electronics Special Equipment ESE Co., Jeddah, Saudi Arabia** <br/>
 *February 2015 &ndash; January 2017* <br/>
 Systems Engineer
-	- Architecting and Developing high scale, low latency Audiovisual streaming solutions e.g. (Extron, Crestron).
-	- Participated in the management of various sensor devices and its cloud data synchronization.
-	- Participated in the wave of government services digitalization by designing and building highly scalable cloud solutions.
+	- Architecting and Developing high scale, low latency Audiovisual streaming solutions.
+	- Participated in the design and integration of a distributed data stream management system of various sensors and its synchronization with the cloud.
+	- Participated in the wave of government services digitalization by implementing and integrating highly scalable cloud solutions.
 
 - **Sawerly Startup Co., Jeddah, Saudi Arabia** <br/>
 *May 2015 &ndash; February 2016* <br/>
@@ -53,14 +51,14 @@ Graphics Designer *(Part-time)*
 - **Electronics Special Equipment ESE Co., Riyadh, Saudi Arabia** <br/>
 *January 2014 &ndash; August 2014* <br/>
 Low-Current Systems Engineer *(Intern)*
-	- Participated in the design and integration of access control system in Rafal Kempinski’s tower.
-	- Participated in the under-vehicles surveillance monitoring system in Rafal Kempinski’s tower.
+	- Participated in the design and integration of the access control system in Rafal Kempinski’s tower.
+	- Participated in the integration of an under-vehicles surveillance monitoring system in Rafal Kempinski’s tower.
 
 - **Integrated Fiber Est., Buraydah, Saudi Arabia** <br/>
 *June 2013 &ndash; December 2013* <br/>
 IT Engineer *(Intern)*
-	- Extensive data center administration Linux Shell/Bash scripting.
-	- Participated in the design of UI visualization of in-house data center's loggings.
+	 Extensive data center administration Linux Shell/Bash scripting.
+	- Participated in UI visualization development of the in-house data center's system logs.
 
 ## Skills / Tools
 - **Programing Languages:** <br/>
