@@ -11,7 +11,7 @@
 - AI engineering, with a strong background in PyTorch and distributed machine learning.
 
 ## Education
-- **Kumoh National Institute of Technology Kit, Gumi, South Korea** <br/>
+- **Kumoh National Institute of Technology (Kit), Gumi, South Korea** <br/>
 M.Sc. in ICT Convergence Engineering <br/>
 *Major in Real-time Systems* <br/>
 *February 2017 &ndash; February 2019*
@@ -57,7 +57,7 @@ Low-Current Systems Engineer *(Intern)*
 - **Integrated Fiber Est., Buraydah, Saudi Arabia** <br/>
 *June 2013 &ndash; December 2013* <br/>
 IT Engineer *(Intern)*
-	 Extensive data center administration Linux Shell/Bash scripting.
+	- Extensive data center administration Linux Shell/Bash scripting.
 	- Participated in UI visualization development of the in-house data center's system logs.
 
 ## Skills / Tools
@@ -65,7 +65,7 @@ IT Engineer *(Intern)*
 *Python, Java, JavaScript, Golang and C++.*
 
 - **Web Technologies:** <br/>
-*Golang, NodeJS, NGINX, graphQL, NATS, and GRPC.*
+*NodeJS, NGINX, GraphQL, NATS, and GRPC.*
 
 - **Data Management:** <br/>
 *Postgres, MongoDB, Cassandra, Redis, DynamoDB, and AWS S3.*
