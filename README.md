@@ -31,12 +31,6 @@ Systems Engineer
 	- Participated in the integration and implementation of a distributed data stream management system of various sensors and its synchronization with the Docker cloud.
 	- Participated in the wave of government services digitalization by implementing and integrating highly scalable cloud solutions.
 
-- **Sawerly Startup Co., Jeddah, Saudi Arabia** <br/>
-*May 2015 &ndash; April 2016* (1 year) <br/>
-Graphics Designer *(Part-time)*
-	- Designed company portfolio, website, booths, and marketing campaign ads.
-	- Designed wireframes and mockups of company applications. 
-
 - **Electronics Special Equipment ESE Co., Riyadh, Saudi Arabia** <br/>
 *January 2014 &ndash; August 2014* (8 months) <br/>
 Low-Current Systems Engineer *(Intern)* 
@@ -58,14 +52,12 @@ M.Sc. in ICT Convergence Engineering <br/>
 	- Researched in the area of Information and Communication Technology ICT, real-time systems, geo-routing protocols, Intelligent Transportation Systems ITS.
 	- Researched and implemented a hierarchical representation of geo-routing data using a machine learning algorithm.
 	- Implemented TWINE, a lightweight block cipher for multiple platforms.
-	- Researched and implemented Cuckoo filter algorithm for drone-related applications.
 	- Developed Android application for mobile emergency response & command interface (MERCI) backed by Oceanit Co, Hawaii, USA.
 
 - **Qassim University, Buraydah, Saudi Arabia** <br/>
 B.S. in Electrical Engineering <br/>
 *Major in Communication and Electronics Engineering* <br/>
 *September 2009 &ndash; January 2015* (5 years)
-	- Studied multiple courses in the core of electronics & communication, all starting with the transistor operation and its manufacturing technologies, spanning ahead to signal processing, communication electronics, SoC integration, antenna design, and network protocols.
 	- Became Qassim university engineering students club's president for the year 2013, assigned to handle duties of planning and organizing extracurricular activities, representing and helping students in their college affairs.
 
 ## Skills / Tools
@@ -87,6 +79,5 @@ Big Data, Cloud-native, Machine learning, Cloud infrastructure, IoT, Distributed
 ### Languages
 - `*****` English
 - `***--` Korean
-- `***--` French
 - `*****` Arabic
 - `*****` Somali
