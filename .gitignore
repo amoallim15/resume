@@ -1,6 +1,9 @@
 # Build
 build/
 
+# Dev
+README.html
+
 # DS_Store
 **/.DS_Store
 

@@ -10,11 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: install wkhtmltopdf
-      run: |
-        sudo apt update
-        sudo apt -y install wget
-        wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.5/wkhtmltox_0.12.5-1.bionic_amd64.deb
-        sudo apt install ./wkhtmltox_0.12.5-1.bionic_amd64.deb
+      run: make wkhtmltopdf
     - name: build resume
       run: make build
     - uses: actions/upload-artifact@v2

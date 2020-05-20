@@ -15,7 +15,7 @@
 *August 2019 &ndash; Present* (~ 1 year) <br/>
 Software Development Engineer
 	- Architecting big data infrastructure based on Kubernetes for work-life balance curation service.
-	- Developing and implementing recommender system with Pytorch.
+	- Developing and implementing a recommender system with Pytorch.
 	- Developing and implementing GraphQL analytics API for the recommender system.
 	- Developing and implementing various server-side micro-services using Golang and Python.
 
@@ -56,15 +56,17 @@ M.Sc. in ICT Convergence Engineering <br/>
 *Major in Real-time Systems* <br/>
 *February 2017 &ndash; February 2019* (2 years)
 	- Researched in the area of Information and Communication Technology ICT, real-time systems, geo-routing protocols, Intelligent Transportation Systems ITS.
-	- Developed Android application for mobile emergency response & command interface (MERCI) backed by Oceanit Co, Hawaii, USA.
+	- Researched and implemented a hierarchical representation of geo-routing data using a machine learning algorithm.
 	- Implemented TWINE, a lightweight block cipher for multiple platforms.
-	- Researched and implemented Cuckoo filter algorithm for drone related applications.
-	- Researched and implemented hierarchical representation of geo-routing data using Machine Learning algorithm.
+	- Researched and implemented Cuckoo filter algorithm for drone-related applications.
+	- Developed Android application for mobile emergency response & command interface (MERCI) backed by Oceanit Co, Hawaii, USA.
 
 - **Qassim University, Buraydah, Saudi Arabia** <br/>
 B.S. in Electrical Engineering <br/>
 *Major in Communication and Electronics Engineering* <br/>
 *September 2009 &ndash; January 2015* (5 years)
+	- Studied multiple courses in the core of electronics & communication, all starting with the transistor operation and its manufacturing technologies, spanning ahead to signal processing, communication electronics, SoC integration, antenna design, and network protocols.
+	- Became Qassim university engineering students club's president for the year 2013, assigned to handle duties of planning and organizing extracurricular activities, representing and helping students in their college affairs.
 
 ## Skills / Tools
 - **Programing Languages:** <br/>
@@ -80,7 +82,7 @@ B.S. in Electrical Engineering <br/>
 *Hadoop, RedShift, Spark, Elastic Stack, Docker, and Kubernetes.*
 
 ### Keywords
-Big Data, Cloud native, Machine learning, Cloud infrastrcture, IoT, Distributed computing, Micro-services. 
+Big Data, Cloud-native, Machine learning, Cloud infrastructure, IoT, Distributed computing, Micro-services. 
 
 ### Languages
 - `*****` English
