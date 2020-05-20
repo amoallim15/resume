@@ -15,9 +15,7 @@ def md_to_html():
     wrapper = open("./wrapper.html").read()
     content = markdown(open("./README.md", "r").read())
     html = wrapper.replace('<div id="content"/>', content)
-    with open(f"./build/Resume-{TODAY}.html", "w+") as file:
-        file.write(html)
-    return html
+    open(f"./build/Resume-{TODAY}.html", "w+").write(html)
 
 
 def html_to_pdf():
