@@ -7,13 +7,13 @@
 # Ali Moallim &ndash; Software Development Engineer
 - 3+ years of experience as a software engineer in various industries.
 - Full-stack engineer with a focus on scalable cloud architectures, big data, distributed computing, and microservices.
-- Experienced in DevOps toolchain like Docker, Kubernetes, GIT, and CI environments.
+- Experienced in DevOps toolchain such as Docker, Kubernetes, GIT, and CI environments.
 - AI engineering, with a strong background in PyTorch and distributed machine learning.
 - Experienced front-end developer, with all-round web programming skills in React, Vue, and GraphQL, as well as mobile programming e.g. Android, React-Native, and Flutter.
 
 ## Experience
 - **Gtention Powered By Hanwha, Seoul, South Korea** <br/>
-*August 2019 &ndash; Present* (~ 1 year) <br/>
+*August 2019 &ndash; August 2020* (1 year) <br/>
 Software Development Engineer
 	- Architecting big data infrastructure based on Kubernetes for work-life balance curation service.
 	- Developing and implementing a recommender system with Pytorch.
@@ -71,16 +71,16 @@ B.S. in Electrical Engineering <br/>
 
 ## Skills / Tools
 - **Programing Languages:** <br/>
-*Python, Java, JavaScript, Dart, Golang and C++.*
+*Python, Java, JavaScript, Dart, Golang, Elixir and C++.*
 
 - **Web Technologies:** <br/>
-*NodeJS, NGINX, GraphQL, JAM Stack, NATS, and GRPC.*
+*NodeJS, Nginx, GraphQL, JAM Stack, NATS, and GRPC.*
 
 - **Data Management:** <br/>
 *Postgres, MongoDB, Cassandra, Redis, DynamoDB, and AWS S3.*
 
 - **Big Data / Cloud:** <br/>
-*Hadoop, RedShift, Spark, Elastic Stack, Docker, and Kubernetes.*
+*Hadoop, RedShift, Spark, Elastic Stack, Docker, Terraform, and Kubernetes.*
 
 ### Keywords
 Flutter, Big Data, Cloud-native, Machine learning, Cloud infrastructure, IoT, Distributed computing, Micro-services. 
