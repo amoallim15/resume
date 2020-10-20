@@ -12,11 +12,17 @@
 - Experienced front-end developer, with all-round web programming skills in React, Vue, and GraphQL, as well as mobile programming e.g. Android, React-Native, and Flutter.
 
 ## Experience
+- **Aicel Technologies, Seoul, South Korea** <br/>
+*September 2020 &ndash; Present* <br/>
+Software Development Engineer
+	- Architecting a distributed cloud-native web-crawler using Kubernetes and Nomad.
+	- Developing and implementing GraphQL API for finanace data curation service.
+	
 - **Gtention Powered By Hanwha, Seoul, South Korea** <br/>
 *August 2019 &ndash; August 2020* (1 year) <br/>
 Software Development Engineer
 	- Architecting big data infrastructure based on Kubernetes for work-life balance curation service.
-	- Developing and implementing a recommender system with Pytorch.
+	- Developing and implementing personalized recommender system with Pytorch.
 	- Developing and implementing GraphQL analytics API for the recommender system.
 	- Developing and implementing various server-side micro-services using Golang and Python.
 	- Developing a Web admin dashboard for controlling and monitoring the application components.
@@ -80,7 +86,7 @@ B.S. in Electrical Engineering <br/>
 *Postgres, MongoDB, Cassandra, Redis, DynamoDB, and AWS S3.*
 
 - **Big Data / Cloud:** <br/>
-*Hadoop, RedShift, Spark, Elastic Stack, Docker, Terraform, and Kubernetes.*
+*Hadoop, RedShift, Spark, Amazon Kinesis, Elastic Stack, Docker, Terraform, and Kubernetes.*
 
 ### Keywords
 Flutter, Big Data, Cloud-native, Machine learning, Cloud infrastructure, IoT, Distributed computing, Micro-services. 
