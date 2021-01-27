@@ -15,8 +15,8 @@
 - **Aicel Technologies, Seoul, South Korea** <br/>
 *September 2020 &ndash; Present* <br/>
 Software Development Engineer
-	- Architecting a distributed cloud-native web-crawler using Kubernetes and Nomad.
-	- Developing and implementing GraphQL API for finanace data curation service.
+	- Architecting a distributed cloud-native SNS, news and e-commerce data crawler using Kubernetes and Kafka.
+	- Developing and implementing GraphQL API for Aicel's SaaS service.
 	
 - **Gtention Powered By Hanwha, Seoul, South Korea** <br/>
 *August 2019 &ndash; August 2020* (1 year) <br/>
