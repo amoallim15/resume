@@ -1,6 +1,6 @@
 > [amoallim15@gmail.com](mailto:amoallim15@gmail.com)&nbsp;|&nbsp;[+(82) 10-9160-1590](tel:+821091601590)
 
-> 1991.12.27 (28 years-old)
+> 1991.12.27 (29 years-old)
 
 ```Seoul, South Korea.```
 
@@ -55,7 +55,7 @@ Low-Current Systems Engineer *(Intern)*
 - **Integrated Fiber Est., Buraydah, Saudi Arabia** <br/>
 *June 2013 &ndash; December 2013* (6 months) <br/>
 IT Engineer *(Intern)* 
-	- Extensive data center administration Linux Shell/Bash scripting.
+	- Extensive data center administration (Linux Shell/Bash scripting).
 	- Participated in UI visualization development of the in-house data center's system logs.
 
 ## Education
