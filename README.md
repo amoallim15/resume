@@ -13,7 +13,7 @@
 
 ## Experience
 - **Aicel Technologies, Seoul, South Korea** <br/>
-*September 2020 &ndash; Present* <br/>
+*September 2020 &ndash; June 2021* (~1 year) <br/>
 Software Development Engineer
 	- Architecting a distributed cloud-native SNS, news and e-commerce data crawler using Kubernetes and Kafka.
 	- Developing and implementing GraphQL API for Aicel's SaaS service.
