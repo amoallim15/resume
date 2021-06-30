@@ -80,7 +80,7 @@ B.S. in Electrical Engineering <br/>
 *Python, Java, JavaScript, Dart, Golang, Elixir and C++.*
 
 - **Web Technologies:** <br/>
-*NodeJS, Nginx, GraphQL, JAM Stack, NATS, ZeroMQ, Kafka and GRPC.*
+*NodeJS, Nginx, GraphQL, JAM Stack, NATS, ZeroMQ, Kafka, and GRPC.*
 
 - **Data Management:** <br/>
 *Postgres, MongoDB, Cassandra, Redis, DynamoDB, and AWS S3.*
