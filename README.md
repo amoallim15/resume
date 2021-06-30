@@ -7,9 +7,9 @@
 # Ali Moallim &ndash; Software Development Engineer
 - 3+ years of experience as a software engineer in various industries.
 - Full-stack engineer with a focus on scalable cloud architectures, big data, distributed computing, and microservices.
-- Experienced in DevOps toolchain such as Docker, Kubernetes, GIT, and CI environments.
+- Experienced in DevOps toolchains such as Docker, Kubernetes, GIT, and CI environments.
 - AI engineering, with a strong background in PyTorch and distributed machine learning.
-- Experienced front-end developer, with all-round web programming skills in React, Vue, and GraphQL, as well as mobile programming e.g. Android, React-Native, and Flutter.
+- Experienced front-end developer, with all-around web programming skills in React, Vue, and GraphQL, as well as mobile programming e.g. Android, React-Native, and Flutter.
 
 ## Experience
 - **Aicel Technologies, Seoul, South Korea** <br/>
